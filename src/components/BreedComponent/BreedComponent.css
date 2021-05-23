@@ -1,0 +1,18 @@
+
+.c-breed {
+    width: 200px;
+    height: 300px;
+    margin: 50px;
+    border: 1px solid lightgray;
+    display: inline-block;
+}
+
+.img-container {
+    width: 100%;
+    height: 100%;
+}
+
+.img-container > img {
+    width: 195px;
+    height: 250px;
+}
